@@ -1,2 +1,2 @@
-# stepik_sql
-exercises from stepik sql course
+# sql-ex exercises
+exercises from sql-ex
